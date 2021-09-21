@@ -1,4 +1,3 @@
 ## Elena-yantsy.github.io
-my portfolio
+### My portfolio
 my new projects will be added
-my name is Elena
